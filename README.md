@@ -7,7 +7,7 @@ T3rn-Node Setup
  In addition, you need to prepare a Faucet in 4 Chain
  arbitrum-sepolia,base-sepolia,blast-sepolia,optimism-sepolia
 
- After Run Complete Go To Discord Claim Role role executor and send Proof of Running Your Node On Server T1rn-Testnet
+ After Run Complete. Go To Discord Claim Role role executor and send Proof of Running Your Node On Server T1rn-Testnet
 
 ## General Instructions
 
